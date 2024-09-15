@@ -1,4 +1,5 @@
-#MEGA PROJECT 1: Jarvis - Voice-Activated Virtual Assistant
+MEGA PROJECT 1: Jarvis - Voice-Activated Virtual Assistant
+<br>
 Jarvis is a sophisticated voice-activated virtual assistant, designed to streamline everyday tasks such as web browsing, playing music, fetching news, and responding to user queries using OpenAI's GPT-3.5-turbo model. It is built to handle voice commands and provide intelligent, real-time responses, making it a helpful personal assistant similar to Alexa or Google Assistant.
 <br>
 Features:
